@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+
+}
+
+body, html {
+    margin: ;
+    padding: 0;
+}
+
+#wrapper {
+    margin: 2rem;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    margin: 1rem;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+/*
+#525252 grey color
+#96f8e3 green color
+*/
